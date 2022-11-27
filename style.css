@@ -1,9 +1,25 @@
 /* style.css */
 
 h1 {
-    background-color: blueviolet;
+    background-color: green;
     font: caption;
     font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 
+#parm {
+    color: red;
+    text-align: center;
+    font-size: 100px;
+}
+
+#burger {
+    color: yellow;
+    font-size: 120px;
+}
+
+#pizza {
+    color: deeppink;
+    font-size: 150px;
+}
