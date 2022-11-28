@@ -2,5 +2,32 @@
 
     h1 {
         color: blueviolet;
-        
+        text-align: right;
+        text-shadow: 2in;
+        background-color: aqua;
+    }
+
+    img {
+        width: 350px;
+        height: auto;
+        margin-left: 40%;
+        margin-right: 50%;
+    }
+
+    h2 {
+        color: violet;
+        text-align: right;
+        background-color: aquamarine;
+    }
+
+    h3 {
+        color: blue;
+        text-orientation: sideways;
+        background-color: teal;
+    }
+
+    ul {
+        text-align: center;
+        color: red;
+        font-size: 24px;
     }
